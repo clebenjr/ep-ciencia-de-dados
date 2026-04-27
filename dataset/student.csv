@@ -1,0 +1,371 @@
+SEXO,IDADE,CRECHE,SAUDE,NOME_ESCOLA,RAZAO_ESCOLHA_ESCOLA,TEMPO_ESTUDO_SEMANAL,ALMEJA_ENSINO_SUPERIOR,SUPORTE_ESCOLAR,RESPONSAVEL,STATUS_PAIS,ESCOLARIDADE_MAE,PROFISSAO_MAE,ESCOLARIDADE_PAI,PROFISSAO_PAI,TAMANHO_FAMILIA,QUALIDADE_FAMILA,SUPORTE_FAMILIAR,INTERNET_CASA,TIPO_ENDERECO,TEMPO_DESLOCAMENTO,ATIVIDADES_EXTRAS,RELACIONAMENTO,TEMPO_LIVRE,SAIR_COM_AMIGOS,ALCOOL_DIA_UTIL,ALCOOL_FIM_DE_SEMANA,AULAS_PAGAS_MAT,NUM_REPROVACOES_MAT,FALTAS_MAT,NOTA_1_MAT,NOTA_2_MAT,NOTA_3_MAT,AULAS_PAGAS_POR,NUM_REPROVACOES_POR,FALTAS_POR,NOTA_1_POR,NOTA_2_POR,NOTA_3_POR
+feminino,18,True,3,Gabriel Pereira,curso,2,True,True,mae,separados,4,casa,4,professor,mais de 3,4,False,False,urbano,2,False,False,3,4,1,1,False,0,6,5,6,6,False,0,4,0,11,11
+feminino,17,False,3,Gabriel Pereira,curso,2,True,False,pai,juntos,1,casa,1,outro,mais de 3,5,True,True,urbano,1,False,False,3,3,1,1,False,0,4,5,5,6,False,0,2,9,11,11
+feminino,15,True,3,Gabriel Pereira,outro,2,True,True,mae,juntos,1,casa,1,outro,ate 3,4,False,True,urbano,1,False,False,3,2,2,3,True,3,10,7,8,10,False,0,6,12,13,12
+feminino,15,True,5,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,4,saude,2,servicos,mais de 3,3,True,True,urbano,1,True,True,2,2,1,1,True,0,2,15,14,15,False,0,0,14,14,14
+feminino,16,True,5,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,3,outro,3,outro,mais de 3,4,True,False,urbano,1,False,False,3,2,1,2,True,0,4,6,10,10,False,0,0,11,13,13
+masculino,16,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,servicos,3,outro,ate 3,5,True,True,urbano,1,True,False,4,2,1,2,True,0,10,15,15,15,False,0,6,12,12,13
+masculino,16,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,2,outro,ate 3,4,False,True,urbano,1,False,False,4,4,1,1,False,0,0,12,12,11,False,0,0,13,12,13
+feminino,17,True,1,Gabriel Pereira,proximo_casa,2,True,True,mae,separados,4,outro,4,professor,mais de 3,4,True,False,urbano,2,False,False,1,4,1,1,False,0,6,6,5,6,False,0,2,10,13,13
+masculino,15,True,1,Gabriel Pereira,proximo_casa,2,True,False,mae,separados,3,servicos,2,outro,ate 3,4,True,True,urbano,1,False,False,2,2,1,1,True,0,0,16,18,19,False,0,0,15,16,17
+masculino,15,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,3,outro,4,outro,mais de 3,5,True,True,urbano,1,True,False,5,1,1,1,True,0,0,14,15,15,False,0,0,12,12,13
+feminino,15,True,2,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,4,saude,mais de 3,3,True,True,urbano,1,False,False,3,3,1,2,True,0,0,10,8,9,False,0,2,14,14,14
+feminino,15,True,4,Gabriel Pereira,reputacao,3,True,False,pai,juntos,2,servicos,1,outro,mais de 3,5,True,True,urbano,3,True,False,2,2,1,1,False,0,4,10,12,12,False,0,0,10,12,13
+masculino,15,True,5,Gabriel Pereira,curso,1,True,False,pai,juntos,4,saude,4,servicos,ate 3,4,True,True,urbano,1,True,False,3,3,1,3,True,0,2,14,14,14,False,0,0,12,13,12
+masculino,15,True,3,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,5,True,True,urbano,2,False,False,4,3,1,2,True,0,2,10,10,11,False,0,0,12,12,13
+masculino,15,True,3,Gabriel Pereira,proximo_casa,3,True,False,outro,separados,2,outro,2,outro,mais de 3,4,True,True,urbano,1,False,True,5,2,1,1,False,0,0,14,16,16,False,0,0,14,14,15
+feminino,16,True,2,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,4,saude,4,outro,mais de 3,4,True,True,urbano,1,False,False,4,4,1,2,False,0,4,14,14,14,False,0,6,17,17,17
+feminino,16,True,2,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,servicos,4,servicos,mais de 3,3,True,True,urbano,1,True,False,2,3,1,2,True,0,6,13,14,14,False,0,10,13,13,14
+feminino,16,True,4,Gabriel Pereira,reputacao,2,True,True,mae,juntos,3,outro,3,outro,mais de 3,5,True,False,urbano,3,True,False,3,2,1,1,False,0,4,8,10,10,False,0,2,13,14,14
+masculino,17,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,3,servicos,2,servicos,mais de 3,5,True,True,urbano,1,True,False,5,5,2,4,False,3,16,6,5,5,True,3,2,8,8,7
+masculino,16,True,5,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,4,saude,3,outro,ate 3,3,False,True,urbano,1,True,False,1,3,1,3,True,0,4,8,10,10,False,0,6,12,12,12
+masculino,15,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,4,False,True,urbano,1,False,False,4,1,1,1,False,0,0,13,14,15,False,0,0,12,13,14
+masculino,15,True,5,Gabriel Pereira,outro,1,True,False,pai,juntos,4,saude,4,saude,mais de 3,5,True,True,urbano,1,False,False,4,2,1,1,True,0,0,12,15,15,True,0,0,11,12,12
+masculino,16,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,2,outro,ate 3,4,False,True,urbano,1,True,False,5,1,1,3,False,0,2,15,15,16,False,0,0,12,13,14
+masculino,16,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,2,outro,2,outro,ate 3,5,True,True,urbano,2,True,False,4,4,2,4,False,0,0,13,13,12,False,0,2,10,10,10
+feminino,15,True,5,Gabriel Pereira,curso,3,True,True,mae,juntos,2,servicos,4,saude,mais de 3,4,True,True,rural,1,True,False,3,2,1,1,True,0,2,10,9,8,False,0,2,10,11,10
+feminino,16,False,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,2,servicos,2,servicos,mais de 3,1,True,True,urbano,1,False,False,2,2,1,3,True,2,14,6,9,8,False,0,6,10,11,12
+masculino,15,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,2,outro,2,outro,mais de 3,4,True,True,urbano,1,False,False,2,2,1,2,True,0,2,12,12,11,False,0,8,11,12,12
+masculino,15,True,1,Gabriel Pereira,outro,1,True,False,mae,juntos,4,saude,2,servicos,mais de 3,2,False,True,urbano,1,False,False,2,4,2,4,True,0,4,15,16,15,False,0,0,11,11,11
+masculino,16,True,5,Gabriel Pereira,proximo_casa,2,True,True,mae,separados,3,servicos,4,outro,ate 3,5,True,True,urbano,1,True,False,3,3,1,1,False,0,4,11,11,11,True,0,2,12,12,13
+masculino,16,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,4,professor,mais de 3,4,True,True,urbano,1,True,True,4,5,5,5,True,0,16,10,12,11,True,0,4,12,11,12
+masculino,15,False,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,saude,4,servicos,mais de 3,5,True,True,urbano,1,False,False,4,2,3,4,True,0,0,9,11,12,True,0,0,10,11,11
+masculino,15,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,servicos,4,servicos,mais de 3,4,True,True,urbano,2,True,False,3,1,1,1,False,0,0,17,16,17,False,0,2,15,15,15
+masculino,15,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,3,casa,mais de 3,4,True,True,rural,1,True,True,5,2,1,1,False,0,0,17,16,16,False,0,0,13,14,15
+masculino,15,False,2,Gabriel Pereira,curso,2,True,False,mae,juntos,3,outro,3,outro,ate 3,5,False,True,urbano,1,True,False,3,2,1,1,False,0,0,8,10,12,False,0,0,13,12,12
+masculino,16,False,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,3,outro,2,outro,mais de 3,5,True,True,urbano,1,False,False,4,3,1,1,True,0,0,12,14,15,False,0,4,12,12,12
+feminino,15,True,5,Gabriel Pereira,outro,1,True,False,pai,juntos,2,outro,3,outro,mais de 3,3,True,False,urbano,2,True,False,5,1,1,1,False,0,0,8,7,6,False,0,4,11,11,11
+masculino,15,True,4,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,4,professor,3,servicos,ate 3,5,True,True,urbano,1,True,False,4,3,1,1,False,0,2,15,16,18,False,0,0,14,14,14
+masculino,16,True,5,Gabriel Pereira,reputacao,3,True,False,mae,separados,4,outro,4,professor,mais de 3,2,True,True,rural,2,True,True,4,3,1,1,False,0,7,15,16,15,False,0,4,13,13,13
+feminino,15,True,5,Gabriel Pereira,curso,3,True,True,mae,juntos,3,servicos,4,saude,mais de 3,4,True,True,rural,1,True,False,3,2,1,1,True,0,2,12,12,11,False,0,2,11,12,12
+feminino,15,True,2,Gabriel Pereira,reputacao,1,True,True,mae,juntos,2,casa,2,outro,mais de 3,4,True,False,rural,1,True,False,3,1,1,1,True,0,8,14,13,13,False,0,8,14,13,12
+feminino,16,False,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,2,outro,ate 3,3,True,True,urbano,2,True,True,3,3,1,2,False,1,25,7,10,11,False,0,16,11,11,10
+masculino,15,False,5,Gabriel Pereira,proximo_casa,1,True,False,outro,juntos,4,professor,4,outro,ate 3,5,True,True,urbano,1,False,True,4,3,2,4,False,0,8,12,12,12,False,0,8,10,11,11
+masculino,15,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,4,servicos,4,professor,mais de 3,4,True,True,urbano,1,True,False,3,3,1,1,False,0,2,19,18,18,False,0,0,14,15,15
+masculino,15,True,1,Gabriel Pereira,curso,1,True,True,pai,juntos,2,servicos,2,servicos,mais de 3,5,True,True,urbano,1,False,False,4,1,1,1,False,0,0,8,8,11,False,0,0,9,10,10
+feminino,16,True,5,Gabriel Pereira,curso,2,True,True,pai,juntos,2,outro,2,casa,ate 3,4,False,True,urbano,2,True,False,3,3,2,2,False,1,14,10,10,9,False,1,14,10,11,11
+feminino,15,True,5,Gabriel Pereira,curso,2,True,True,mae,separados,4,outro,3,outro,ate 3,5,True,True,urbano,1,True,True,2,2,1,1,True,0,8,8,8,6,True,0,4,10,11,11
+feminino,16,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,separados,3,outro,3,servicos,ate 3,2,True,True,urbano,1,False,False,3,5,1,4,False,0,12,11,12,11,False,0,6,13,12,13
+masculino,16,True,2,Gabriel Pereira,reputacao,4,True,False,mae,juntos,4,saude,3,servicos,mais de 3,4,False,True,urbano,1,True,False,2,2,1,1,False,0,4,19,19,20,False,0,2,17,17,17
+masculino,15,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,2,outro,mais de 3,4,True,False,urbano,1,False,False,3,3,2,2,True,0,2,15,15,14,False,0,4,11,12,13
+feminino,15,False,3,Gabriel Pereira,outro,2,True,True,pai,juntos,4,servicos,4,professor,mais de 3,4,True,True,urbano,1,True,False,4,4,1,1,False,1,2,7,7,7,False,0,2,13,12,12
+feminino,16,True,4,Gabriel Pereira,curso,2,True,False,mae,juntos,2,servicos,2,servicos,ate 3,4,True,True,urbano,3,False,False,3,3,2,3,True,0,2,12,13,13,False,0,0,14,13,13
+feminino,15,True,5,Gabriel Pereira,outro,2,True,False,mae,juntos,4,saude,2,outro,ate 3,4,True,True,urbano,1,False,False,3,3,1,1,True,0,2,11,13,13,False,0,0,16,14,16
+masculino,15,True,5,Gabriel Pereira,outro,1,True,False,pai,separados,4,saude,2,saude,ate 3,5,False,False,urbano,2,False,False,5,5,3,4,False,1,6,11,11,10,False,0,4,10,9,9
+feminino,15,True,5,Gabriel Pereira,curso,1,True,True,mae,juntos,4,servicos,4,servicos,mais de 3,3,True,True,urbano,1,False,False,3,4,2,3,True,0,0,8,10,11,False,0,0,13,12,12
+feminino,15,True,1,Gabriel Pereira,outro,1,True,False,mae,separados,3,outro,3,outro,ate 3,5,False,True,urbano,1,False,False,3,4,4,4,True,0,6,10,13,13,False,0,0,13,12,13
+feminino,16,True,2,Gabriel Pereira,outro,2,True,False,mae,separados,2,outro,1,outro,mais de 3,5,False,True,urbano,1,True,True,3,4,1,1,True,0,8,8,9,10,False,0,2,12,13,12
+feminino,15,True,1,Gabriel Pereira,reputacao,2,True,False,mae,separados,4,servicos,3,servicos,mais de 3,4,True,True,urbano,1,True,False,3,2,1,1,True,0,0,14,15,15,False,0,0,15,14,15
+masculino,15,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,4,saude,mais de 3,3,True,False,urbano,1,True,False,2,2,1,1,False,0,4,14,15,15,False,0,8,15,15,16
+masculino,15,True,5,Gabriel Pereira,proximo_casa,2,True,True,pai,juntos,1,outro,2,casa,ate 3,4,True,True,urbano,1,True,False,3,2,1,1,False,0,2,9,10,9,False,0,0,14,13,14
+feminino,16,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,4,servicos,2,outro,mais de 3,4,True,True,urbano,1,False,False,2,3,1,1,False,0,2,15,16,16,True,0,2,16,15,16
+feminino,16,True,4,Gabriel Pereira,outro,2,True,False,mae,juntos,4,saude,4,professor,mais de 3,2,True,False,rural,1,True,False,4,4,2,3,False,0,6,10,11,11,False,0,0,17,16,16
+feminino,16,False,5,Gabriel Pereira,curso,1,True,True,pai,juntos,1,servicos,1,servicos,mais de 3,5,True,True,urbano,4,True,True,5,5,5,5,False,0,6,10,8,11,False,0,0,10,10,16
+feminino,16,True,1,Gabriel Pereira,reputacao,2,True,True,pai,juntos,1,outro,2,servicos,ate 3,4,False,True,urbano,1,True,False,4,3,1,1,False,0,4,8,10,9,False,0,0,13,13,10
+feminino,16,True,4,Gabriel Pereira,proximo_casa,3,True,True,mae,juntos,4,professor,3,saude,mais de 3,3,True,True,urbano,1,True,False,4,4,2,4,True,0,2,10,9,9,False,0,0,14,13,13
+feminino,15,True,2,Gabriel Pereira,reputacao,2,True,True,pai,juntos,4,servicos,3,servicos,ate 3,4,False,True,urbano,1,True,True,4,4,2,4,False,0,0,10,10,10,False,0,0,13,12,12
+feminino,16,True,1,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,3,servicos,ate 3,5,True,True,urbano,3,True,False,4,3,1,2,False,0,2,16,15,15,False,0,2,16,15,16
+masculino,15,False,3,Gabriel Pereira,reputacao,4,True,False,mae,separados,4,outro,4,servicos,mais de 3,1,True,True,urbano,1,True,True,3,3,5,5,False,0,4,13,13,12,False,0,0,11,12,12
+feminino,16,True,5,Gabriel Pereira,curso,4,True,True,mae,juntos,3,servicos,1,outro,mais de 3,4,True,True,urbano,1,False,False,3,3,1,2,True,0,4,7,7,6,False,0,0,10,9,10
+feminino,15,True,4,Gabriel Pereira,reputacao,2,True,True,mae,juntos,2,saude,2,servicos,ate 3,4,True,True,rural,2,False,False,1,3,1,3,True,0,2,8,9,8,False,0,0,11,10,11
+feminino,15,False,3,Gabriel Pereira,reputacao,4,True,False,pai,juntos,3,outro,1,outro,ate 3,4,True,True,rural,2,False,False,4,2,2,3,False,0,12,16,16,16,False,0,6,15,15,15
+masculino,16,True,5,Gabriel Pereira,reputacao,4,True,False,pai,juntos,3,outro,1,outro,mais de 3,4,True,True,urbano,2,False,False,3,2,1,1,True,0,0,13,15,15,False,0,2,13,11,11
+masculino,15,True,3,Gabriel Pereira,curso,4,True,False,mae,juntos,4,outro,2,outro,mais de 3,3,False,True,urbano,1,False,False,3,3,1,1,False,0,0,10,10,10,False,0,0,11,9,10
+feminino,15,False,5,Gabriel Pereira,reputacao,2,True,True,mae,juntos,1,outro,1,outro,mais de 3,3,True,True,rural,1,False,True,3,4,2,4,False,2,2,8,6,5,False,0,2,13,11,11
+masculino,16,True,5,Gabriel Pereira,reputacao,1,True,False,mae,juntos,3,outro,1,outro,mais de 3,5,False,False,urbano,1,True,False,3,2,2,2,False,0,2,12,12,14,False,0,0,13,13,14
+feminino,16,True,5,Gabriel Pereira,proximo_casa,2,True,True,mae,juntos,3,outro,3,servicos,mais de 3,4,True,True,urbano,1,True,False,3,3,2,4,True,0,54,11,12,11,False,0,4,11,11,11
+masculino,15,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,4,True,True,urbano,1,True,False,3,3,2,3,True,0,6,9,9,10,False,0,0,11,11,11
+masculino,15,True,1,Gabriel Pereira,curso,4,True,False,mae,juntos,4,professor,0,outro,mais de 3,3,False,True,urbano,2,True,False,4,3,1,1,False,0,8,11,11,10,False,0,0,12,11,11
+feminino,16,True,3,Gabriel Pereira,reputacao,4,True,False,mae,juntos,2,outro,2,outro,mais de 3,5,False,True,urbano,1,False,True,2,3,1,3,True,0,0,11,11,11,False,0,1,13,13,13
+masculino,17,True,3,Gabriel Pereira,proximo_casa,1,False,True,mae,juntos,2,outro,1,outro,mais de 3,4,True,True,urbano,2,True,False,5,1,1,1,False,3,2,8,8,10,False,3,0,9,9,10
+feminino,16,True,3,Gabriel Pereira,curso,2,True,False,mae,juntos,3,casa,4,outro,mais de 3,2,True,True,urbano,1,False,False,4,3,1,2,False,0,12,5,5,5,False,0,14,12,11,11
+masculino,15,False,3,Gabriel Pereira,curso,1,True,True,pai,juntos,2,outro,3,servicos,mais de 3,3,True,True,urbano,1,True,True,2,2,1,3,True,0,2,10,12,12,False,0,0,11,11,12
+masculino,15,False,5,Gabriel Pereira,proximo_casa,3,True,True,mae,juntos,2,outro,3,outro,mais de 3,5,False,True,urbano,1,False,False,3,2,1,2,True,0,4,11,10,11,False,0,2,10,9,9
+feminino,15,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,servicos,2,outro,ate 3,4,True,True,urbano,1,False,False,4,4,1,1,True,0,10,7,6,6,False,0,4,12,11,11
+masculino,15,True,4,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,servicos,2,servicos,ate 3,5,False,True,urbano,2,True,False,3,3,1,3,True,0,4,15,15,15,True,0,2,13,12,13
+feminino,15,False,4,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,1,outro,1,outro,mais de 3,4,True,True,urbano,1,True,False,3,2,2,3,False,0,2,9,10,10,False,0,2,13,12,12
+feminino,15,True,5,Gabriel Pereira,reputacao,2,True,False,pai,juntos,4,servicos,4,servicos,mais de 3,4,False,True,urbano,2,False,True,4,4,2,3,True,2,6,7,9,8,False,0,4,12,11,12
+feminino,16,True,2,Gabriel Pereira,curso,2,True,False,mae,juntos,2,casa,2,outro,ate 3,4,True,False,urbano,1,False,False,3,4,1,2,False,0,4,8,7,6,False,0,6,13,11,11
+feminino,15,True,1,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,outro,2,outro,mais de 3,5,True,True,urbano,1,True,False,3,3,1,3,False,0,4,13,14,14,False,0,4,15,15,15
+masculino,16,False,3,Gabriel Pereira,reputacao,2,True,False,pai,juntos,2,servicos,2,outro,mais de 3,4,False,True,urbano,2,True,False,4,2,1,1,True,1,12,11,10,10,False,0,6,12,10,11
+masculino,16,True,5,Gabriel Pereira,reputacao,2,True,False,mae,separados,4,professor,4,saude,ate 3,4,True,False,urbano,1,False,False,1,3,3,5,False,0,18,8,6,7,False,0,6,9,9,10
+feminino,16,True,4,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,3,outro,3,outro,mais de 3,4,True,True,urbano,1,False,True,3,3,1,3,True,0,0,7,7,8,False,0,2,9,11,11
+feminino,15,True,1,Gabriel Pereira,reputacao,1,True,False,mae,juntos,4,servicos,3,outro,mais de 3,4,False,True,urbano,1,True,False,5,5,1,3,True,0,4,16,17,18,False,0,6,14,13,13
+feminino,16,True,2,Gabriel Pereira,proximo_casa,2,True,True,pai,juntos,3,outro,1,outro,ate 3,3,True,False,urbano,1,False,False,3,3,2,3,False,0,4,7,6,6,False,0,0,12,13,12
+feminino,16,True,1,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,2,servicos,mais de 3,5,True,True,urbano,2,True,False,3,3,1,1,True,0,0,11,10,10,False,0,2,13,14,14
+masculino,15,True,4,Gabriel Pereira,reputacao,4,True,False,mae,juntos,2,servicos,2,saude,ate 3,4,True,True,urbano,1,True,False,3,4,1,1,False,0,6,11,13,14,False,0,2,11,12,12
+feminino,15,True,1,Gabriel Pereira,proximo_casa,4,True,True,mae,juntos,1,casa,1,outro,mais de 3,3,True,True,rural,2,True,False,1,2,1,1,True,1,2,7,10,10,True,0,4,13,13,13
+masculino,16,False,4,Gabriel Pereira,reputacao,1,True,True,mae,juntos,4,servicos,3,outro,mais de 3,3,True,True,rural,2,True,False,3,3,1,1,False,0,2,11,15,15,True,0,6,9,11,11
+feminino,16,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,2,outro,1,outro,mais de 3,4,True,False,urbano,1,False,True,3,5,1,1,True,0,2,8,9,10,False,0,0,13,12,12
+feminino,16,False,1,Gabriel Pereira,reputacao,1,True,False,mae,juntos,4,outro,4,outro,mais de 3,5,False,True,urbano,1,True,False,3,4,1,2,False,0,6,11,14,14,False,0,4,12,13,13
+feminino,16,True,3,Gabriel Pereira,curso,3,True,True,mae,juntos,4,outro,3,casa,mais de 3,5,True,True,urbano,1,False,False,3,5,1,1,True,0,0,7,9,8,False,0,2,12,13,13
+masculino,16,True,4,Gabriel Pereira,outro,1,True,True,mae,juntos,4,servicos,4,servicos,mais de 3,4,True,True,urbano,1,True,False,5,5,5,5,True,0,14,7,7,5,False,0,12,9,9,8
+masculino,16,True,4,Gabriel Pereira,outro,3,True,False,pai,juntos,4,servicos,4,professor,mais de 3,4,True,True,urbano,1,True,True,4,3,1,1,False,0,0,16,17,17,False,0,0,16,16,16
+masculino,15,False,5,Gabriel Pereira,curso,1,True,False,mae,juntos,4,servicos,4,outro,mais de 3,5,True,True,urbano,1,True,False,3,3,1,1,False,0,4,10,13,14,True,0,2,12,13,12
+feminino,15,True,2,Gabriel Pereira,proximo_casa,2,True,True,mae,juntos,3,servicos,2,outro,mais de 3,4,True,True,urbano,2,False,False,3,5,1,1,True,0,26,7,6,6,False,0,16,11,10,10
+masculino,15,True,1,Gabriel Pereira,curso,2,True,False,mae,separados,3,servicos,4,outro,mais de 3,5,True,True,urbano,1,True,False,4,4,1,1,True,0,0,16,18,18,False,0,0,16,16,16
+feminino,15,True,4,Gabriel Pereira,reputacao,4,True,True,pai,separados,3,outro,3,saude,mais de 3,4,False,False,urbano,1,False,False,3,3,1,1,False,0,10,10,11,11,False,0,10,10,10,10
+feminino,15,True,3,Gabriel Pereira,curso,4,True,True,mae,juntos,2,outro,2,outro,mais de 3,5,True,True,urbano,1,False,False,1,2,1,1,True,0,8,7,8,8,False,0,4,10,10,10
+masculino,16,True,5,Gabriel Pereira,proximo_casa,3,True,False,pai,juntos,3,servicos,3,outro,mais de 3,5,True,True,urbano,1,True,False,3,3,1,1,False,0,2,16,18,18,False,0,4,13,14,14
+masculino,15,True,1,Gabriel Pereira,proximo_casa,4,True,False,pai,juntos,4,outro,4,outro,mais de 3,1,True,True,rural,4,True,True,3,5,3,5,True,0,6,10,13,13,False,0,8,12,10,11
+feminino,16,True,4,Gabriel Pereira,outro,3,True,False,mae,juntos,4,saude,4,saude,ate 3,5,True,True,urbano,1,True,True,4,5,1,1,True,0,4,14,15,16,False,0,2,15,15,14
+masculino,15,True,4,Gabriel Pereira,curso,1,True,False,mae,separados,4,professor,4,professor,ate 3,5,False,True,urbano,1,True,False,5,3,1,1,False,0,6,18,19,19,False,0,4,13,14,14
+feminino,16,True,2,Gabriel Pereira,reputacao,3,True,True,pai,juntos,3,servicos,3,outro,mais de 3,4,True,True,rural,1,True,False,1,2,1,1,False,1,0,7,10,10,False,0,4,11,11,11
+feminino,16,True,5,Gabriel Pereira,proximo_casa,2,True,True,mae,juntos,2,casa,2,outro,mais de 3,3,False,True,urbano,1,True,False,1,2,1,1,False,1,6,10,13,13,False,1,12,8,10,10
+masculino,15,True,3,Gabriel Pereira,curso,1,True,False,mae,juntos,4,professor,2,outro,ate 3,3,False,True,urbano,1,False,False,5,2,1,1,False,0,10,18,19,19,False,0,10,18,17,18
+masculino,15,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,2,saude,1,servicos,mais de 3,5,False,True,rural,1,True,True,4,2,1,1,False,0,8,9,9,9,False,0,4,10,9,10
+masculino,16,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,4,professor,4,professor,mais de 3,5,True,True,urbano,1,True,False,4,4,1,2,False,0,2,15,15,16,False,0,6,16,14,14
+masculino,15,True,2,Gabriel Pereira,reputacao,2,True,False,pai,juntos,4,outro,4,professor,mais de 3,4,True,False,urbano,2,True,False,4,3,1,1,False,0,2,11,13,14,False,0,4,16,15,16
+masculino,16,True,5,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,3,outro,3,servicos,mais de 3,5,False,True,urbano,2,True,False,4,2,1,1,False,0,0,13,14,13,False,0,6,14,14,15
+masculino,17,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,1,outro,3,outro,mais de 3,5,True,True,rural,3,True,False,2,4,1,4,False,1,20,9,7,8,False,1,14,12,11,11
+masculino,15,True,4,Gabriel Pereira,reputacao,1,True,False,pai,juntos,3,outro,4,outro,mais de 3,3,False,True,urbano,1,False,False,4,3,1,2,False,0,6,14,13,13,False,0,2,14,13,14
+feminino,15,False,1,Gabriel Pereira,curso,2,True,False,mae,juntos,1,casa,2,servicos,mais de 3,3,False,True,urbano,1,False,False,2,3,1,2,False,0,2,16,15,15,False,0,0,14,14,14
+masculino,15,True,5,Gabriel Pereira,proximo_casa,4,True,False,pai,juntos,2,servicos,2,servicos,mais de 3,5,True,True,urbano,1,True,False,5,4,1,2,True,0,6,16,14,15,False,0,6,14,13,13
+feminino,16,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,2,outro,4,saude,ate 3,4,True,True,urbano,2,True,True,2,2,1,2,True,0,2,13,13,13,False,0,2,14,12,13
+masculino,16,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,4,saude,4,outro,mais de 3,3,True,True,urbano,1,True,False,4,4,1,4,False,0,18,14,11,13,False,0,4,12,13,13
+feminino,16,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,2,outro,mais de 3,5,False,True,urbano,1,False,True,4,4,1,1,True,0,0,8,7,8,False,0,0,12,11,11
+masculino,15,True,5,Gabriel Pereira,proximo_casa,1,True,True,pai,juntos,3,servicos,4,servicos,mais de 3,5,False,True,urbano,1,False,False,5,5,3,2,False,0,0,13,13,12,False,0,2,9,9,9
+feminino,15,True,1,Gabriel Pereira,proximo_casa,2,True,True,mae,separados,3,outro,4,outro,ate 3,5,False,True,urbano,1,True,True,3,2,1,1,False,0,0,7,10,11,False,0,0,10,11,11
+feminino,19,False,5,Gabriel Pereira,curso,2,False,False,outro,juntos,0,casa,1,outro,mais de 3,3,True,False,urbano,1,False,False,4,2,1,1,False,3,2,7,8,9,False,2,0,9,10,11
+masculino,16,True,4,Gabriel Pereira,curso,1,True,False,mae,juntos,4,professor,4,professor,mais de 3,3,False,True,rural,1,True,False,5,5,2,5,True,0,8,18,18,18,False,0,8,14,14,15
+feminino,15,True,5,Gabriel Pereira,curso,3,True,False,pai,juntos,3,servicos,4,professor,mais de 3,4,True,True,rural,2,False,True,2,2,2,2,False,2,0,12,0,0,False,0,0,10,11,12
+feminino,15,False,4,Gabriel Pereira,curso,1,True,False,mae,juntos,1,casa,1,outro,mais de 3,4,True,True,urbano,3,True,True,3,3,1,2,False,0,0,8,0,0,False,0,6,11,12,13
+feminino,17,True,5,Gabriel Pereira,curso,1,True,False,pai,juntos,2,outro,2,outro,ate 3,3,True,True,urbano,1,False,True,4,4,1,3,False,0,12,10,13,12,False,0,2,13,12,12
+feminino,16,True,5,Gabriel Pereira,curso,1,True,False,pai,separados,3,servicos,4,outro,mais de 3,3,False,True,urbano,1,False,False,2,1,1,4,False,0,16,12,11,11,False,0,12,15,13,14
+masculino,15,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,3,casa,4,professor,mais de 3,5,True,False,rural,4,False,True,3,3,1,1,False,0,0,9,0,0,False,0,2,12,11,11
+feminino,15,True,5,Gabriel Pereira,curso,3,True,False,mae,juntos,4,servicos,4,casa,mais de 3,4,True,True,urbano,1,True,True,3,3,1,1,False,0,0,11,0,0,False,0,4,13,14,15
+masculino,17,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,3,casa,4,outro,mais de 3,5,False,False,rural,3,False,False,4,5,2,4,False,0,0,10,0,0,False,0,2,10,9,10
+feminino,16,False,5,Gabriel Pereira,curso,1,True,False,outro,separados,3,outro,3,outro,mais de 3,4,True,True,urbano,2,True,True,3,2,1,1,False,2,0,4,0,0,False,0,4,9,9,10
+masculino,16,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,1,servicos,1,outro,ate 3,4,False,False,urbano,1,False,True,4,4,1,3,False,1,0,14,12,12,False,2,0,10,10,10
+feminino,15,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,4,professor,4,professor,mais de 3,4,False,True,urbano,2,True,False,3,2,1,1,False,0,0,16,16,15,False,0,6,13,14,14
+masculino,15,True,3,Gabriel Pereira,curso,4,True,True,pai,juntos,4,professor,3,servicos,mais de 3,2,True,True,urbano,2,False,False,2,2,1,1,False,0,0,7,9,0,False,0,6,9,11,11
+masculino,16,True,2,Gabriel Pereira,reputacao,1,True,False,pai,juntos,2,servicos,2,servicos,ate 3,2,True,True,urbano,2,True,False,3,3,2,2,False,2,8,9,9,9,False,0,4,12,11,11
+feminino,15,True,5,Gabriel Pereira,curso,3,True,False,mae,juntos,4,professor,4,servicos,mais de 3,4,True,True,urbano,1,True,False,2,2,1,1,True,0,2,9,11,11,False,0,2,13,13,13
+feminino,16,True,1,Gabriel Pereira,curso,1,True,False,mae,juntos,1,casa,1,casa,ate 3,3,False,True,urbano,1,False,False,4,4,3,3,False,0,2,14,14,13,False,0,4,10,11,11
+masculino,17,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,5,True,True,urbano,1,False,False,4,5,1,2,False,3,0,5,0,0,False,0,22,9,7,6
+feminino,15,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,1,outro,1,servicos,mais de 3,4,True,True,urbano,1,False,False,4,2,1,2,True,0,0,8,11,11,False,0,0,12,12,12
+feminino,15,True,3,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,3,saude,2,servicos,mais de 3,3,True,True,urbano,1,False,False,3,2,1,1,False,3,0,6,7,0,False,1,2,11,11,11
+feminino,15,False,5,Gabriel Pereira,curso,2,True,False,mae,juntos,1,casa,2,outro,mais de 3,4,True,True,urbano,1,False,False,3,2,1,1,True,0,2,10,11,11,False,0,6,13,12,13
+masculino,16,True,5,Gabriel Pereira,curso,1,False,False,mae,juntos,4,professor,4,professor,mais de 3,3,True,True,urbano,1,False,True,3,2,2,1,False,0,0,7,6,0,False,0,16,9,9,8
+masculino,15,True,5,Gabriel Pereira,curso,1,True,False,mae,separados,2,servicos,1,outro,ate 3,4,False,True,urbano,4,False,False,5,5,2,5,False,3,0,8,9,10,False,0,0,12,11,11
+masculino,18,True,4,Gabriel Pereira,curso,1,False,False,mae,juntos,1,outro,1,outro,ate 3,2,False,True,urbano,1,False,True,3,5,2,5,False,3,0,6,5,0,False,2,0,11,9,0
+masculino,16,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,2,casa,1,outro,ate 3,4,False,False,urbano,1,True,True,4,4,3,5,False,1,6,12,13,14,False,1,6,9,10,10
+feminino,15,True,3,Gabriel Pereira,reputacao,3,True,False,outro,juntos,3,servicos,3,servicos,mais de 3,4,True,True,rural,2,True,True,2,1,2,3,True,2,8,10,10,10,True,0,2,13,13,13
+masculino,19,True,4,Gabriel Pereira,proximo_casa,1,False,False,mae,juntos,3,servicos,2,casa,mais de 3,4,True,True,urbano,1,False,True,5,4,1,1,False,3,0,5,0,0,False,0,6,11,9,11
+feminino,17,True,4,Gabriel Pereira,curso,1,True,True,mae,juntos,4,outro,4,professor,mais de 3,4,True,False,urbano,1,False,True,2,1,1,1,False,0,0,11,11,12,False,0,0,13,13,13
+masculino,15,True,1,Gabriel Pereira,curso,2,True,True,mae,juntos,2,casa,3,servicos,mais de 3,4,False,False,rural,1,True,False,4,4,1,1,True,0,2,11,8,8,True,0,0,7,8,8
+masculino,17,True,5,Gabriel Pereira,reputacao,1,True,False,mae,juntos,1,outro,2,outro,ate 3,2,False,False,rural,1,False,False,2,2,3,3,False,0,8,16,12,13,False,3,14,9,8,10
+feminino,18,False,4,Gabriel Pereira,curso,1,True,False,mae,juntos,1,casa,1,outro,mais de 3,5,True,False,rural,3,True,False,2,5,1,5,False,3,6,9,8,10,False,3,6,11,10,11
+masculino,16,False,3,Gabriel Pereira,curso,1,True,False,mae,juntos,2,casa,2,outro,mais de 3,4,False,False,rural,3,False,False,2,2,1,2,False,0,2,17,15,15,False,0,4,12,10,11
+masculino,16,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,3,outro,3,servicos,mais de 3,4,True,True,urbano,1,False,True,5,5,4,4,True,1,4,10,12,12,False,1,0,10,10,1
+masculino,17,True,5,Gabriel Pereira,curso,1,False,False,mae,juntos,2,casa,1,outro,ate 3,3,False,True,rural,2,True,True,3,2,2,2,False,2,0,7,6,0,True,1,8,8,8,9
+masculino,17,True,5,Gabriel Pereira,curso,2,False,False,mae,juntos,1,outro,1,servicos,ate 3,5,False,False,rural,4,True,True,3,5,1,5,False,3,0,5,8,7,False,0,0,8,8,8
+masculino,16,True,4,Gabriel Pereira,curso,2,False,False,pai,juntos,2,outro,2,outro,mais de 3,4,False,True,urbano,1,False,False,3,5,2,4,False,0,4,10,10,10,False,0,0,9,10,11
+feminino,16,True,3,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,4,saude,2,servicos,mais de 3,4,False,True,urbano,1,False,True,2,3,1,1,True,0,0,14,15,16,False,0,0,17,17,18
+feminino,16,False,4,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,2,outro,mais de 3,5,True,True,urbano,1,False,False,1,5,1,1,True,0,0,6,7,0,False,0,0,12,12,13
+feminino,16,True,3,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,saude,4,saude,mais de 3,4,True,True,urbano,1,False,True,4,2,1,1,True,0,0,14,14,14,False,0,0,16,16,17
+masculino,16,False,2,Gabriel Pereira,curso,1,True,False,pai,juntos,3,outro,4,outro,mais de 3,3,True,True,urbano,3,True,False,4,5,2,4,False,2,0,6,5,0,False,1,4,9,9,10
+masculino,16,True,3,Gabriel Pereira,reputacao,2,True,False,mae,juntos,1,outro,0,outro,mais de 3,4,True,True,urbano,2,True,True,3,2,1,1,True,0,2,13,15,16,False,0,0,16,17,18
+masculino,17,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,4,outro,ate 3,4,True,True,urbano,1,True,False,4,4,1,3,True,0,0,13,11,10,False,0,0,11,9,10
+feminino,16,False,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,1,casa,3,servicos,mais de 3,4,False,True,urbano,1,True,True,3,5,1,1,False,3,0,8,7,0,False,0,0,14,13,13
+feminino,16,True,4,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,outro,3,outro,ate 3,4,True,True,urbano,2,True,False,4,5,1,1,True,0,4,10,11,9,False,0,0,14,14,15
+masculino,17,True,4,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,3,outro,ate 3,4,False,True,urbano,2,True,False,4,4,4,4,True,0,4,10,9,9,False,0,0,10,11,11
+feminino,16,False,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,2,servicos,2,outro,mais de 3,3,False,True,urbano,2,True,False,4,4,1,4,True,0,2,13,13,11,False,0,0,13,12,14
+masculino,17,False,4,Gabriel Pereira,reputacao,2,True,False,pai,juntos,3,outro,3,outro,mais de 3,4,False,True,urbano,1,True,False,3,4,1,4,False,0,4,6,5,6,False,0,4,11,9,10
+masculino,16,True,3,Gabriel Pereira,outro,1,True,False,mae,juntos,4,professor,2,servicos,mais de 3,4,True,True,rural,1,True,True,3,3,3,4,False,0,10,10,8,9,False,0,8,10,9,11
+masculino,17,True,2,Gabriel Pereira,curso,2,True,False,mae,juntos,4,outro,3,outro,mais de 3,5,True,True,urbano,1,True,True,2,3,1,1,False,0,4,10,10,11,True,0,4,11,11,13
+masculino,16,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,3,True,True,urbano,1,True,False,4,3,2,3,True,0,10,9,8,8,True,0,4,11,10,11
+masculino,16,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,3,servicos,3,outro,mais de 3,4,False,True,urbano,1,True,True,2,3,1,2,True,0,2,12,13,12,False,0,0,11,12,13
+feminino,17,True,5,Gabriel Pereira,reputacao,2,True,False,pai,juntos,2,servicos,4,servicos,mais de 3,5,True,False,urbano,1,True,False,4,2,2,3,False,0,0,16,17,17,False,0,0,17,18,17
+feminino,17,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,outro,3,outro,ate 3,5,True,True,urbano,1,True,True,3,3,2,3,False,0,56,9,9,8,False,0,32,14,13,14
+feminino,16,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,outro,2,outro,mais de 3,1,True,True,urbano,1,False,False,2,2,1,2,True,0,14,12,13,12,False,0,8,14,15,16
+masculino,17,True,4,Gabriel Pereira,outro,2,True,False,mae,juntos,3,servicos,3,servicos,mais de 3,4,True,True,urbano,1,True,True,3,4,2,3,False,0,12,12,12,11,False,0,6,11,13,14
+masculino,16,True,3,Gabriel Pereira,outro,1,True,False,mae,juntos,1,servicos,2,servicos,mais de 3,3,True,True,urbano,1,True,True,3,3,1,2,True,0,2,11,12,11,False,0,0,10,9,11
+masculino,16,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,2,outro,1,outro,ate 3,4,False,True,urbano,1,True,True,2,3,1,2,True,0,0,15,15,15,False,0,0,13,14,16
+feminino,17,False,3,Gabriel Pereira,reputacao,2,True,False,mae,separados,3,saude,3,outro,mais de 3,3,True,True,urbano,1,False,True,3,3,1,3,False,0,6,8,7,9,False,0,10,12,13,14
+masculino,17,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,1,casa,2,outro,mais de 3,3,False,False,rural,1,False,False,1,3,1,5,False,0,4,8,9,10,False,0,6,9,9,10
+feminino,16,True,2,Gabriel Pereira,curso,2,True,False,mae,juntos,2,servicos,3,servicos,mais de 3,4,False,True,urbano,1,False,False,3,3,1,1,False,0,10,11,12,13,False,0,6,12,12,13
+feminino,17,True,3,Gabriel Pereira,curso,2,True,False,mae,juntos,1,casa,1,servicos,mais de 3,5,False,True,urbano,1,True,False,3,3,1,1,False,0,0,8,8,9,False,0,0,12,11,12
+masculino,17,False,5,Gabriel Pereira,outro,2,True,False,outro,juntos,1,casa,2,servicos,mais de 3,4,False,True,urbano,2,True,False,4,4,4,5,True,0,12,7,8,8,False,0,16,10,11,12
+masculino,16,True,5,Gabriel Pereira,reputacao,1,True,False,mae,juntos,3,servicos,3,servicos,mais de 3,4,True,True,rural,1,True,False,3,2,3,4,False,0,8,8,9,10,False,0,0,11,10,10
+masculino,16,True,3,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,2,outro,3,outro,mais de 3,5,False,True,urbano,2,False,False,3,3,1,1,False,0,0,13,14,14,False,0,0,13,12,12
+feminino,17,True,5,Gabriel Pereira,curso,2,True,False,pai,juntos,2,servicos,4,servicos,ate 3,4,False,True,urbano,1,True,True,3,2,1,1,False,0,0,14,15,15,False,0,8,14,15,16
+masculino,17,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,4,servicos,4,professor,mais de 3,5,False,True,urbano,1,False,False,2,3,1,2,False,0,4,17,15,16,False,0,4,13,13,14
+masculino,16,True,3,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,3,professor,3,outro,ate 3,3,True,True,rural,3,True,False,3,4,3,5,True,0,8,9,9,10,False,0,16,10,11,12
+feminino,17,True,2,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,4,servicos,4,professor,mais de 3,4,True,True,urbano,2,False,False,2,4,2,3,False,1,24,18,18,18,False,1,30,14,15,16
+feminino,16,True,3,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,4,professor,ate 3,4,True,True,urbano,1,False,False,5,2,1,2,True,0,0,9,9,10,False,0,0,11,10,11
+feminino,16,True,2,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,saude,3,outro,mais de 3,4,True,True,urbano,1,True,False,3,5,1,5,False,0,2,16,16,16,False,0,2,14,14,15
+feminino,16,True,4,Gabriel Pereira,reputacao,2,True,True,mae,juntos,2,outro,3,outro,mais de 3,4,True,False,urbano,1,True,False,4,3,1,3,True,0,6,8,10,10,False,0,4,11,12,12
+feminino,17,False,1,Gabriel Pereira,curso,2,True,False,mae,juntos,1,outro,1,outro,mais de 3,4,True,False,urbano,1,False,False,4,4,1,3,True,0,4,9,9,10,False,0,0,14,15,15
+feminino,17,True,3,Gabriel Pereira,reputacao,1,True,False,mae,juntos,2,outro,2,outro,mais de 3,5,True,True,rural,1,False,False,3,2,1,2,False,0,18,7,6,6,False,0,21,13,13,13
+feminino,16,False,5,Gabriel Pereira,reputacao,4,True,False,mae,juntos,2,servicos,2,servicos,mais de 3,5,True,True,rural,2,True,False,3,5,1,1,True,0,6,10,10,11,False,0,6,13,13,13
+feminino,17,True,5,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,3,casa,4,servicos,mais de 3,4,True,True,urbano,1,False,True,4,3,3,4,True,1,28,10,9,9,True,1,14,8,9,8
+feminino,16,True,4,Gabriel Pereira,curso,2,True,False,mae,separados,3,servicos,1,outro,mais de 3,2,True,True,urbano,1,False,False,3,3,2,2,True,3,5,7,7,7,False,0,2,11,11,12
+feminino,16,True,1,Gabriel Pereira,outro,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,1,False,True,urbano,1,True,True,3,2,1,1,True,0,10,11,12,13,False,0,4,14,15,15
+feminino,16,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,1,casa,1,outro,mais de 3,4,True,False,urbano,2,False,False,3,2,1,4,True,0,6,9,9,10,False,0,2,12,13,13
+feminino,17,True,4,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,professor,3,outro,mais de 3,4,True,True,rural,2,True,True,4,2,1,1,True,0,6,7,7,7,False,0,0,11,12,12
+feminino,19,True,3,Gabriel Pereira,reputacao,4,True,False,outro,juntos,3,outro,3,outro,mais de 3,4,True,True,urbano,1,True,False,3,3,1,2,True,0,10,8,8,8,False,0,4,12,12,12
+masculino,17,True,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,servicos,4,outro,ate 3,5,True,True,urbano,1,False,True,3,5,4,5,True,0,13,12,12,13,False,0,15,13,12,12
+feminino,16,True,4,Gabriel Pereira,reputacao,2,True,True,mae,separados,2,outro,2,outro,mais de 3,3,True,True,urbano,1,False,False,3,4,1,1,True,0,0,12,13,14,False,0,0,13,13,13
+masculino,18,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,servicos,2,outro,mais de 3,4,True,True,urbano,1,True,False,4,4,2,4,True,1,15,6,7,8,False,0,10,12,11,11
+feminino,17,True,3,Gabriel Pereira,outro,1,True,False,mae,juntos,4,servicos,4,outro,ate 3,5,True,False,rural,1,False,False,2,1,1,2,True,0,12,8,10,10,False,0,6,12,11,11
+feminino,17,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,outro,2,outro,ate 3,4,False,True,urbano,2,False,False,4,4,1,3,True,0,2,14,15,15,False,0,2,14,16,15
+feminino,17,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,outro,3,outro,mais de 3,3,False,True,urbano,1,False,True,4,5,2,4,True,2,22,6,6,4,False,0,16,11,9,10
+masculino,18,True,4,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,3,servicos,3,saude,ate 3,3,True,True,urbano,1,False,False,2,4,2,4,True,1,13,6,6,8,False,0,10,10,10,10
+feminino,17,True,3,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,2,casa,3,outro,mais de 3,3,True,False,urbano,2,False,False,3,3,1,4,True,0,3,7,7,8,False,0,4,12,13,13
+feminino,17,True,4,Gabriel Pereira,curso,3,True,False,mae,juntos,2,casa,2,casa,mais de 3,4,True,True,urbano,1,True,False,3,3,1,1,True,0,4,9,10,10,False,0,0,12,12,13
+feminino,17,True,5,Gabriel Pereira,reputacao,2,True,False,mae,juntos,2,casa,1,servicos,mais de 3,4,True,True,rural,2,True,False,2,5,1,2,False,0,2,6,6,6,False,0,0,11,10,11
+feminino,17,True,5,Gabriel Pereira,reputacao,3,True,False,mae,juntos,1,casa,1,outro,mais de 3,4,True,False,urbano,1,True,True,3,4,1,1,False,1,0,6,5,0,False,0,12,12,12,12
+feminino,16,True,3,Gabriel Pereira,outro,2,True,True,mae,juntos,2,servicos,3,professor,mais de 3,2,False,True,urbano,1,False,False,3,1,1,1,False,0,2,16,16,17,False,0,0,13,13,14
+masculino,18,True,4,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,2,outro,mais de 3,3,True,True,urbano,2,False,False,3,3,5,5,True,0,0,12,13,13,True,3,9,10,9,10
+feminino,16,False,5,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,4,professor,4,servicos,mais de 3,5,True,True,urbano,1,True,False,3,2,1,1,False,0,0,13,13,14,False,0,4,15,16,16
+feminino,18,True,4,Gabriel Pereira,reputacao,2,True,False,mae,juntos,3,outro,1,outro,mais de 3,5,False,True,rural,1,True,True,3,3,1,1,False,1,16,9,8,7,False,0,4,8,8,8
+feminino,17,False,3,Gabriel Pereira,curso,2,True,False,mae,juntos,3,outro,2,outro,mais de 3,5,False,True,urbano,1,True,False,3,4,1,3,False,0,10,16,15,15,False,0,2,17,18,17
+masculino,17,False,3,Gabriel Pereira,reputacao,2,True,False,pai,juntos,2,servicos,3,servicos,ate 3,5,True,True,urbano,1,False,False,3,3,1,3,True,0,2,12,11,12,False,0,0,10,11,11
+masculino,18,True,3,Gabriel Pereira,curso,2,True,True,mae,juntos,2,casa,1,outro,ate 3,4,True,True,urbano,4,True,True,3,2,4,5,True,0,14,10,8,9,False,0,2,9,10,11
+feminino,17,True,3,Gabriel Pereira,curso,3,True,False,mae,separados,2,outro,1,outro,mais de 3,3,False,True,urbano,2,True,True,2,3,1,2,False,0,10,12,10,12,False,0,0,15,15,16
+feminino,17,True,3,Gabriel Pereira,reputacao,2,True,False,pai,juntos,4,saude,3,outro,ate 3,3,False,True,urbano,1,True,True,2,3,1,2,False,0,14,13,13,14,False,0,0,14,12,12
+masculino,17,True,1,Gabriel Pereira,curso,2,True,False,pai,juntos,2,outro,2,outro,mais de 3,4,True,True,rural,2,True,False,5,2,1,1,True,0,4,11,11,11,False,0,0,12,13,13
+masculino,17,True,2,Gabriel Pereira,reputacao,2,True,True,mae,juntos,4,professor,4,professor,mais de 3,4,True,True,urbano,1,True,True,5,5,1,3,False,0,14,11,9,9,False,0,0,13,13,13
+masculino,16,True,1,Gabriel Pereira,reputacao,2,True,False,pai,juntos,4,saude,4,outro,mais de 3,4,True,True,urbano,1,True,False,2,4,2,4,True,0,2,14,13,13,False,0,0,13,13,14
+masculino,16,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,1,outro,1,outro,ate 3,3,True,True,urbano,2,False,False,4,2,1,1,True,0,18,9,7,6,False,0,2,9,9,9
+masculino,16,True,2,Gabriel Pereira,reputacao,3,True,False,mae,juntos,3,casa,2,outro,mais de 3,5,False,True,urbano,2,True,True,3,3,1,3,False,0,10,11,9,10,False,0,0,12,12,12
+masculino,17,False,4,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,2,outro,2,outro,ate 3,4,False,True,urbano,1,True,True,4,2,5,5,True,0,4,14,13,13,False,0,0,16,16,16
+feminino,16,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,4,False,True,urbano,1,False,True,5,2,1,1,False,0,20,13,12,12,False,0,4,9,10,10
+feminino,17,True,3,Gabriel Pereira,curso,2,True,False,mae,juntos,2,casa,1,servicos,mais de 3,2,False,False,rural,3,True,False,1,1,1,1,False,0,2,13,11,11,False,0,2,13,13,13
+masculino,18,True,2,Gabriel Pereira,reputacao,2,False,False,pai,juntos,2,outro,2,servicos,mais de 3,5,False,True,urbano,1,False,False,5,4,3,5,False,1,0,7,7,0,False,0,16,8,7,8
+masculino,17,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,4,saude,3,outro,ate 3,2,False,True,urbano,2,True,True,5,5,1,4,False,0,14,12,12,12,False,0,8,15,15,15
+masculino,17,True,4,Gabriel Pereira,curso,2,True,False,mae,separados,4,professor,4,outro,ate 3,3,True,True,rural,2,False,False,3,3,2,3,True,0,2,10,11,12,False,0,0,12,12,12
+masculino,16,False,3,Gabriel Pereira,curso,1,True,False,mae,juntos,4,professor,3,outro,ate 3,5,False,True,urbano,1,True,False,4,5,1,1,False,0,0,6,0,0,False,0,7,14,14,15
+masculino,16,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,4,servicos,4,servicos,mais de 3,5,False,True,urbano,1,True,False,3,2,1,2,False,0,0,13,12,12,True,0,4,14,15,15
+feminino,18,False,3,Gabriel Pereira,curso,3,True,False,outro,juntos,2,outro,1,outro,mais de 3,4,True,True,urbano,2,False,True,4,4,1,1,True,0,0,7,0,0,False,0,10,12,10,11
+masculino,16,True,4,Gabriel Pereira,curso,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,4,False,True,urbano,3,False,False,3,3,1,1,False,0,6,18,18,18,False,0,7,15,16,16
+masculino,17,True,2,Gabriel Pereira,curso,1,True,False,pai,juntos,2,outro,3,outro,mais de 3,5,False,True,urbano,2,False,False,2,2,1,1,False,0,4,12,12,13,False,0,2,9,12,13
+masculino,22,False,1,Gabriel Pereira,outro,1,False,False,mae,juntos,3,servicos,1,servicos,mais de 3,5,False,True,urbano,1,False,True,4,5,5,5,False,3,16,6,8,8,False,3,12,7,8,5
+masculino,18,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,3,outro,3,servicos,ate 3,4,True,True,rural,1,False,True,3,3,1,3,False,1,8,3,5,5,False,0,8,10,9,10
+masculino,16,False,5,Gabriel Pereira,outro,1,True,False,mae,juntos,0,outro,2,outro,mais de 3,4,False,True,urbano,1,False,False,3,2,2,4,True,0,0,13,15,15,False,0,0,11,12,11
+masculino,18,True,5,Gabriel Pereira,curso,1,False,False,mae,juntos,3,servicos,2,outro,mais de 3,4,False,True,urbano,2,False,False,4,5,2,4,False,1,0,6,8,8,False,0,8,7,8,7
+masculino,16,False,2,Gabriel Pereira,reputacao,2,True,True,outro,juntos,3,casa,3,outro,mais de 3,5,True,True,urbano,3,False,False,3,3,1,3,False,0,6,7,10,10,False,1,4,9,11,10
+masculino,18,False,5,Gabriel Pereira,outro,1,False,False,mae,juntos,2,servicos,1,servicos,mais de 3,3,False,True,urbano,1,False,False,2,5,2,5,False,1,4,6,9,8,False,2,4,7,8,6
+masculino,16,False,3,Gabriel Pereira,curso,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,3,False,False,rural,2,True,False,3,2,1,3,False,0,0,8,9,8,False,0,2,14,13,12
+masculino,17,False,5,Gabriel Pereira,curso,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,4,False,True,rural,1,False,False,4,2,2,4,False,0,0,8,12,12,False,0,0,12,12,13
+masculino,17,True,5,Gabriel Pereira,curso,1,True,False,mae,juntos,1,saude,1,outro,ate 3,4,True,True,urbano,2,True,False,4,4,1,2,False,1,2,7,9,8,False,1,0,9,10,10
+feminino,17,True,4,Gabriel Pereira,reputacao,4,True,False,mae,juntos,4,professor,2,servicos,ate 3,4,True,True,urbano,1,True,False,2,3,1,1,True,0,6,14,12,13,False,0,2,14,15,17
+masculino,19,True,1,Gabriel Pereira,reputacao,2,True,False,mae,separados,4,servicos,3,casa,ate 3,4,True,True,urbano,1,False,False,3,1,1,1,False,0,12,11,11,11,False,0,4,11,13,14
+masculino,18,True,4,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,2,outro,1,outro,mais de 3,5,False,True,urbano,1,True,False,2,4,1,2,False,0,8,15,14,14,False,0,2,16,16,16
+feminino,17,True,2,Gabriel Pereira,curso,4,True,False,pai,juntos,2,servicos,2,servicos,ate 3,3,False,True,urbano,1,True,True,4,1,1,1,True,0,0,10,9,0,False,0,2,10,11,12
+feminino,18,True,2,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,4,servicos,3,outro,mais de 3,3,True,True,urbano,1,False,True,1,2,1,3,True,0,21,17,18,18,False,0,2,15,15,15
+masculino,18,False,3,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,3,outro,mais de 3,4,True,True,urbano,1,False,False,3,2,1,1,True,0,2,8,8,8,False,0,2,10,10,11
+masculino,18,False,3,Gabriel Pereira,curso,3,True,False,mae,juntos,3,outro,2,outro,mais de 3,5,False,False,rural,1,True,False,3,2,1,1,False,0,1,13,12,12,False,0,2,10,11,12
+feminino,17,False,4,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,3,outro,3,outro,mais de 3,3,False,False,urbano,1,True,False,2,3,1,1,False,0,4,10,9,9,False,0,2,15,12,13
+feminino,18,True,3,Gabriel Pereira,proximo_casa,3,True,False,mae,juntos,2,casa,2,servicos,mais de 3,4,True,True,urbano,1,True,True,3,3,1,1,True,0,0,9,10,0,False,0,0,11,12,13
+masculino,18,True,1,Gabriel Pereira,reputacao,2,True,False,mae,separados,3,outro,4,outro,ate 3,4,True,True,rural,2,True,False,2,5,3,4,True,0,13,17,17,17,False,0,6,15,16,16
+masculino,17,True,5,Gabriel Pereira,outro,2,True,False,mae,juntos,3,servicos,1,outro,mais de 3,5,False,True,urbano,1,True,True,4,4,3,4,True,0,2,9,9,10,False,0,0,11,11,14
+feminino,18,True,4,Gabriel Pereira,reputacao,2,True,False,mae,juntos,4,professor,4,outro,mais de 3,4,False,True,rural,2,True,False,3,4,2,2,True,0,8,12,10,11,False,0,8,10,11,12
+masculino,18,True,5,Gabriel Pereira,reputacao,2,True,False,pai,juntos,4,saude,2,outro,mais de 3,5,True,True,urbano,1,True,True,4,5,1,3,True,0,10,10,9,10,False,0,4,10,12,14
+feminino,18,True,3,Gabriel Pereira,reputacao,2,False,False,mae,juntos,2,outro,1,outro,mais de 3,4,True,True,rural,2,False,True,3,5,1,2,False,0,0,6,0,0,False,0,12,8,9,10
+feminino,19,True,5,Gabriel Pereira,proximo_casa,2,True,False,outro,juntos,3,outro,3,servicos,mais de 3,4,True,True,urbano,1,True,False,3,5,3,3,True,2,15,9,9,9,False,0,16,11,12,12
+feminino,18,True,2,Gabriel Pereira,reputacao,4,True,False,pai,juntos,2,outro,3,servicos,mais de 3,4,True,True,urbano,1,True,True,5,5,1,3,True,0,4,15,14,14,False,0,10,16,16,16
+feminino,18,False,3,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,1,outro,1,outro,ate 3,4,True,False,urbano,2,False,False,4,3,1,1,True,0,2,11,11,11,False,0,2,13,13,13
+masculino,17,False,1,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,1,casa,2,casa,mais de 3,3,True,False,rural,1,True,True,5,2,2,2,True,0,2,15,14,14,False,0,2,16,17,18
+feminino,17,True,1,Gabriel Pereira,reputacao,2,True,False,mae,juntos,2,casa,4,saude,mais de 3,4,True,True,urbano,2,False,True,3,3,1,1,True,0,2,10,10,10,False,0,6,15,16,16
+feminino,17,True,5,Gabriel Pereira,curso,2,True,True,mae,juntos,2,servicos,2,outro,ate 3,4,True,True,urbano,2,False,True,4,4,2,3,True,0,6,12,12,12,False,0,6,12,12,12
+feminino,18,False,5,Gabriel Pereira,proximo_casa,2,False,False,mae,separados,3,outro,2,servicos,mais de 3,4,False,True,rural,2,False,True,1,1,1,1,False,0,75,10,9,9,False,0,15,12,9,10
+masculino,18,True,3,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,4,professor,4,servicos,mais de 3,3,False,True,urbano,2,True,False,2,4,1,4,True,0,22,9,9,9,False,0,6,11,12,12
+feminino,18,True,4,Gabriel Pereira,reputacao,2,True,True,pai,juntos,4,saude,4,saude,mais de 3,2,True,True,urbano,1,True,True,4,4,1,1,False,1,15,9,8,8,False,1,2,14,12,13
+masculino,18,True,1,Gabriel Pereira,curso,1,True,False,mae,juntos,4,professor,3,servicos,ate 3,4,False,True,urbano,2,True,False,2,3,1,2,True,0,8,10,11,10,False,0,0,10,10,10
+masculino,17,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,separados,4,servicos,1,outro,ate 3,4,False,True,urbano,2,True,True,5,4,2,4,True,0,30,8,8,8,False,0,22,11,11,10
+masculino,17,True,3,Gabriel Pereira,proximo_casa,1,True,False,mae,separados,3,professor,2,servicos,ate 3,4,False,True,urbano,1,False,False,4,4,3,4,False,1,19,11,9,10,False,0,18,13,13,13
+feminino,18,True,3,Gabriel Pereira,reputacao,4,True,False,mae,juntos,1,casa,1,outro,ate 3,5,True,False,rural,2,True,False,2,2,1,1,True,0,1,12,12,12,False,0,2,17,17,18
+feminino,18,True,4,Gabriel Pereira,proximo_casa,2,True,True,mae,juntos,1,outro,1,outro,mais de 3,5,False,True,urbano,2,True,False,4,4,1,1,False,0,4,8,9,10,False,0,0,12,13,13
+feminino,17,False,5,Gabriel Pereira,curso,2,True,False,mae,juntos,2,outro,2,outro,mais de 3,5,True,True,urbano,1,False,False,4,5,1,2,False,0,4,10,9,11,False,0,12,12,12,14
+masculino,17,False,4,Gabriel Pereira,reputacao,2,True,False,pai,juntos,1,outro,1,outro,mais de 3,4,False,True,urbano,1,False,False,3,3,1,2,True,0,2,12,10,11,False,0,0,12,12,12
+feminino,18,True,2,Gabriel Pereira,outro,3,True,False,mae,juntos,2,casa,2,casa,mais de 3,4,True,True,urbano,1,False,False,3,3,1,2,True,0,5,18,18,19,False,0,0,18,18,18
+feminino,17,True,3,Gabriel Pereira,reputacao,3,True,False,mae,juntos,1,servicos,1,professor,mais de 3,4,True,True,urbano,1,False,False,3,3,1,1,True,0,6,13,12,12,False,0,0,13,13,14
+masculino,18,True,2,Gabriel Pereira,reputacao,3,True,False,mae,juntos,2,servicos,1,servicos,mais de 3,4,False,True,urbano,1,True,False,2,4,1,3,True,0,6,15,14,14,False,0,0,14,15,15
+masculino,18,True,2,Gabriel Pereira,reputacao,2,True,False,mae,separados,4,professor,4,professor,ate 3,5,True,True,urbano,1,True,False,4,3,1,1,True,0,9,15,13,15,False,0,0,17,17,17
+masculino,18,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,4,professor,2,outro,mais de 3,4,True,True,urbano,1,True,True,3,2,1,4,True,0,11,12,11,11,False,0,2,15,16,16
+feminino,17,True,3,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,saude,3,servicos,mais de 3,4,True,True,urbano,1,False,False,2,2,1,2,True,0,0,15,15,15,False,0,0,17,18,18
+feminino,17,True,3,Gabriel Pereira,reputacao,4,True,False,mae,juntos,3,servicos,1,outro,ate 3,3,True,False,rural,2,False,False,1,2,1,1,True,0,6,18,18,18,False,0,0,18,19,19
+masculino,18,True,4,Gabriel Pereira,reputacao,3,True,False,mae,juntos,3,servicos,2,outro,ate 3,5,True,True,rural,2,True,False,4,2,1,1,True,0,8,14,13,14,False,0,0,14,15,15
+masculino,17,True,5,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,3,saude,3,outro,mais de 3,4,True,True,urbano,1,False,False,4,3,1,3,True,0,4,14,12,11,False,0,0,14,15,15
+feminino,19,True,2,Gabriel Pereira,reputacao,2,True,False,outro,juntos,4,saude,4,outro,mais de 3,2,True,True,urbano,2,True,False,3,4,2,3,True,0,0,10,9,0,False,0,2,14,13,13
+feminino,18,True,2,Gabriel Pereira,proximo_casa,2,True,False,outro,juntos,4,outro,3,outro,ate 3,4,True,True,urbano,2,False,True,4,5,1,2,True,0,10,10,8,8,False,0,0,13,14,14
+feminino,18,True,3,Gabriel Pereira,reputacao,4,True,False,pai,juntos,4,outro,3,outro,mais de 3,4,True,True,urbano,1,False,False,3,3,1,1,True,0,0,14,13,14,False,0,0,16,17,17
+masculino,18,True,1,Gabriel Pereira,proximo_casa,1,True,False,mae,juntos,4,professor,4,professor,ate 3,1,True,True,urbano,1,False,True,4,2,2,2,True,0,5,16,15,16,False,0,0,18,18,17
+feminino,18,True,4,Gabriel Pereira,proximo_casa,2,True,False,mae,separados,4,saude,4,outro,ate 3,4,True,True,urbano,1,False,True,2,4,1,1,False,0,14,12,10,11,True,0,0,14,15,15
+masculino,17,True,5,Gabriel Pereira,proximo_casa,1,True,False,pai,juntos,4,outro,4,professor,ate 3,4,False,True,urbano,2,False,False,1,1,2,2,True,0,0,11,11,10,False,0,0,12,13,13
+feminino,17,True,3,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,outro,2,outro,mais de 3,4,True,True,urbano,2,False,False,3,3,1,1,True,0,0,15,12,14,False,0,0,16,16,16
+feminino,17,False,5,Gabriel Pereira,reputacao,4,True,False,pai,juntos,3,saude,2,saude,mais de 3,5,True,True,urbano,1,True,False,2,2,1,2,True,0,0,17,17,18,False,0,0,18,18,18
+masculino,20,True,5,Gabriel Pereira,curso,1,True,False,outro,separados,3,servicos,2,outro,mais de 3,5,False,False,urbano,1,True,False,5,3,1,1,False,0,0,17,18,18,False,2,0,14,15,15
+masculino,19,True,5,Gabriel Pereira,reputacao,2,True,False,pai,juntos,3,outro,3,servicos,mais de 3,4,False,False,rural,1,True,True,5,3,1,2,False,1,0,15,12,12,False,0,0,10,10,11
+feminino,18,True,1,Gabriel Pereira,curso,2,True,False,mae,juntos,2,servicos,1,outro,mais de 3,5,True,True,urbano,2,True,False,3,3,1,2,True,0,0,8,8,0,False,0,2,12,12,15
+feminino,18,True,5,Gabriel Pereira,curso,3,True,False,mae,juntos,4,outro,3,outro,mais de 3,4,True,True,urbano,1,True,True,3,4,1,1,True,0,9,9,10,9,False,0,2,14,15,17
+feminino,17,False,5,Gabriel Pereira,curso,3,True,False,pai,juntos,3,casa,4,servicos,mais de 3,4,True,True,rural,1,True,False,3,4,2,5,True,0,0,11,11,10,False,0,2,15,15,17
+feminino,18,True,5,Gabriel Pereira,curso,2,True,False,mae,juntos,4,professor,4,outro,mais de 3,4,True,True,urbano,1,False,False,4,4,3,3,True,0,2,11,11,11,False,0,0,12,11,13
+feminino,17,True,5,Gabriel Pereira,curso,2,True,False,mae,separados,4,servicos,3,servicos,mais de 3,5,True,True,urbano,1,False,True,2,2,1,2,True,0,23,13,13,13,False,0,14,15,14,17
+feminino,17,True,3,Gabriel Pereira,curso,2,True,False,mae,juntos,2,outro,2,outro,mais de 3,4,True,False,urbano,1,False,True,2,2,1,1,False,0,12,11,9,9,False,0,4,14,13,13
+feminino,17,True,3,Gabriel Pereira,curso,3,True,False,mae,juntos,2,servicos,2,servicos,ate 3,3,True,True,rural,1,True,False,3,2,2,2,True,0,3,11,11,11,False,0,0,11,11,10
+feminino,17,False,5,Gabriel Pereira,curso,3,True,False,pai,juntos,3,servicos,1,servicos,mais de 3,3,True,True,urbano,1,False,False,4,3,2,3,False,0,1,12,14,15,False,0,0,17,18,17
+feminino,17,True,2,Gabriel Pereira,proximo_casa,3,True,False,pai,juntos,0,casa,2,casa,ate 3,3,False,True,urbano,2,False,False,3,3,2,3,False,0,0,16,15,15,False,0,0,14,14,15
+masculino,18,True,3,Gabriel Pereira,curso,3,True,False,mae,juntos,4,outro,4,outro,mais de 3,4,False,True,urbano,1,True,False,3,3,2,2,False,0,3,9,12,11,False,0,0,13,14,13
+masculino,17,False,5,Gabriel Pereira,reputacao,1,True,False,mae,juntos,3,outro,3,servicos,mais de 3,4,False,True,urbano,1,True,False,3,5,3,5,False,0,3,14,15,16,False,0,0,17,18,17
+masculino,17,True,4,Gabriel Pereira,curso,1,True,False,mae,juntos,2,servicos,2,outro,mais de 3,4,True,True,rural,4,False,False,4,5,5,5,False,0,8,11,10,10,False,0,2,11,10,10
+feminino,17,True,4,Gabriel Pereira,curso,3,True,False,mae,juntos,4,professor,4,servicos,mais de 3,5,True,True,urbano,1,True,False,4,4,1,3,True,0,7,10,9,9,False,0,0,13,12,13
+feminino,17,False,4,Gabriel Pereira,curso,3,True,False,mae,juntos,4,professor,4,professor,mais de 3,4,True,True,urbano,2,False,True,3,3,1,2,True,0,4,14,14,14,False,0,4,15,14,15
+masculino,18,True,5,Gabriel Pereira,curso,4,True,False,mae,juntos,2,outro,2,outro,ate 3,4,True,True,urbano,1,True,False,5,5,2,4,False,0,2,9,8,8,True,0,0,11,11,12
+feminino,17,True,5,Gabriel Pereira,curso,3,True,False,pai,juntos,2,casa,4,outro,mais de 3,4,True,True,rural,1,False,True,4,3,1,1,False,0,7,12,14,14,False,0,0,15,15,15
+feminino,18,True,4,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,3,servicos,3,servicos,mais de 3,5,False,True,urbano,1,True,False,3,4,1,1,False,0,0,7,0,0,False,0,8,10,11,12
+feminino,18,False,2,Gabriel Pereira,proximo_casa,2,True,False,outro,juntos,2,outro,2,outro,ate 3,4,False,True,urbano,1,True,True,3,3,1,1,False,0,0,8,8,0,False,0,0,10,9,12
+feminino,18,True,4,Gabriel Pereira,curso,4,True,False,mae,juntos,2,casa,2,outro,mais de 3,4,False,False,rural,2,True,False,4,4,1,1,False,0,0,10,9,0,False,0,6,14,13,14
+feminino,17,True,5,Gabriel Pereira,curso,3,True,False,mae,juntos,3,servicos,4,outro,mais de 3,4,False,True,urbano,1,False,False,4,5,1,3,False,0,16,16,15,15,False,0,8,11,13,14
+feminino,17,True,2,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,3,outro,2,outro,mais de 3,4,True,True,urbano,1,False,True,3,2,2,3,True,0,0,7,8,0,False,0,0,12,13,15
+feminino,18,True,1,Gabriel Pereira,proximo_casa,4,True,False,mae,juntos,3,servicos,3,servicos,ate 3,5,True,True,urbano,1,False,False,3,3,1,1,False,0,7,16,15,17,False,0,4,14,14,15
+feminino,17,True,2,Gabriel Pereira,proximo_casa,2,True,False,mae,separados,3,outro,2,outro,mais de 3,4,True,True,rural,1,False,False,3,3,2,3,True,0,4,9,10,10,False,0,0,14,14,16
+masculino,18,True,2,Gabriel Pereira,proximo_casa,2,True,False,pai,juntos,4,professor,4,servicos,mais de 3,4,True,True,urbano,1,True,False,3,3,2,2,False,1,0,10,10,0,False,0,0,12,12,13
+masculino,18,True,5,Gabriel Pereira,proximo_casa,2,True,False,mae,juntos,3,servicos,4,outro,ate 3,4,False,True,urbano,1,True,True,3,3,1,3,False,0,11,16,15,15,False,0,6,16,16,17
+feminino,17,True,4,Gabriel Pereira,proximo_casa,2,True,False,pai,separados,2,casa,2,casa,mais de 3,3,True,True,urbano,1,False,True,3,1,1,2,False,1,0,9,8,0,False,0,18,10,12,14
+feminino,18,True,3,Gabriel Pereira,curso,3,True,False,mae,juntos,2,casa,3,outro,mais de 3,4,True,True,urbano,1,False,False,3,3,1,2,False,0,4,11,10,10,False,0,0,11,12,14
+feminino,18,True,1,Gabriel Pereira,outro,3,True,False,mae,juntos,3,outro,2,servicos,mais de 3,5,False,True,urbano,1,False,True,4,3,2,3,False,0,7,13,13,14,False,0,4,14,16,17
+masculino,18,True,4,Gabriel Pereira,curso,3,True,False,mae,juntos,4,professor,3,servicos,mais de 3,5,False,True,rural,1,False,True,3,2,1,2,False,0,9,16,15,16,False,0,4,15,14,17
+masculino,18,True,5,Gabriel Pereira,curso,3,True,False,mae,juntos,4,professor,3,outro,mais de 3,5,True,True,urbano,1,False,True,4,5,2,3,True,0,0,10,10,9,False,0,0,14,13,14
+feminino,17,True,4,Gabriel Pereira,reputacao,3,True,False,mae,juntos,4,saude,3,outro,mais de 3,4,True,True,urbano,1,True,True,4,3,1,3,True,0,0,13,15,15,False,0,0,11,12,13
+masculino,18,False,5,Mousinho da Silveira,curso,1,True,False,mae,juntos,3,outro,2,outro,mais de 3,2,True,True,rural,2,False,False,5,5,5,5,False,1,10,11,13,13,False,0,8,9,10,11
+masculino,19,True,2,Mousinho da Silveira,proximo_casa,2,True,False,outro,juntos,1,outro,1,servicos,mais de 3,5,False,True,rural,3,False,False,4,4,3,3,False,3,8,8,7,8,False,1,8,10,9,11
+masculino,17,True,3,Mousinho da Silveira,curso,2,True,False,mae,juntos,3,saude,3,outro,mais de 3,4,True,True,urbano,2,False,False,5,4,2,3,True,0,2,13,13,13,False,1,4,8,9,10
+masculino,18,True,3,Mousinho da Silveira,curso,1,False,False,mae,juntos,1,casa,3,servicos,ate 3,4,False,True,urbano,1,False,True,3,3,2,3,False,1,7,8,7,8,False,0,0,9,10,9
+masculino,19,True,5,Mousinho da Silveira,proximo_casa,1,True,False,outro,juntos,1,outro,1,outro,mais de 3,4,True,True,rural,3,False,False,4,4,3,3,False,1,4,8,8,8,False,1,4,8,9,10
+masculino,17,False,2,Mousinho da Silveira,proximo_casa,2,True,False,mae,juntos,4,servicos,3,outro,mais de 3,4,True,True,rural,2,True,True,5,5,1,3,True,0,4,13,11,11,True,1,4,10,11,11
+feminino,18,True,5,Mousinho da Silveira,curso,2,True,False,pai,juntos,3,servicos,3,servicos,mais de 3,5,True,False,urbano,1,False,True,3,4,1,1,False,0,0,10,9,9,False,0,0,10,10,10
+feminino,17,True,5,Mousinho da Silveira,outro,2,True,False,pai,juntos,4,professor,4,servicos,mais de 3,4,True,True,rural,2,True,False,3,3,1,2,True,0,4,12,13,13,True,0,2,12,12,12
+feminino,17,True,5,Mousinho da Silveira,reputacao,2,True,False,mae,separados,3,servicos,2,outro,ate 3,1,False,False,urbano,2,False,True,2,3,1,2,False,0,2,12,12,11,False,0,0,15,14,15
+masculino,18,False,3,Mousinho da Silveira,proximo_casa,1,True,False,pai,juntos,1,outro,1,servicos,ate 3,3,False,True,urbano,2,False,True,3,2,1,2,False,0,4,10,10,10,False,0,2,14,13,14
+feminino,18,True,4,Mousinho da Silveira,curso,3,True,False,pai,juntos,1,casa,1,servicos,ate 3,5,False,True,urbano,2,False,False,3,2,1,1,False,0,0,18,16,16,False,0,0,19,17,18
+feminino,18,True,3,Mousinho da Silveira,outro,2,True,False,mae,juntos,3,servicos,3,servicos,mais de 3,4,True,True,urbano,2,False,True,3,2,1,3,False,0,0,11,11,10,False,0,6,13,12,13
+feminino,17,True,1,Mousinho da Silveira,curso,2,True,False,mae,juntos,4,casa,4,casa,ate 3,2,True,True,urbano,1,True,True,3,4,1,1,True,0,0,16,15,15,False,0,4,15,14,15
+feminino,17,False,3,Mousinho da Silveira,curso,2,True,False,pai,juntos,1,outro,2,servicos,mais de 3,3,False,False,rural,2,False,False,2,2,1,2,False,0,0,12,11,12,False,0,0,13,13,13
+masculino,18,True,3,Mousinho da Silveira,curso,2,True,False,mae,juntos,1,casa,3,outro,mais de 3,3,True,False,rural,2,False,False,3,4,2,4,True,0,4,10,10,10,True,0,0,8,10,9
+masculino,18,True,5,Mousinho da Silveira,outro,3,True,False,mae,juntos,4,professor,4,servicos,ate 3,4,False,True,urbano,2,False,True,2,2,2,2,True,0,0,13,13,13,False,0,0,15,16,16
+feminino,17,True,1,Mousinho da Silveira,reputacao,1,True,False,mae,juntos,1,outro,1,servicos,mais de 3,5,True,True,rural,3,False,True,2,1,1,2,True,1,0,7,6,0,False,1,0,8,8,9
+feminino,18,True,4,Mousinho da Silveira,curso,1,True,False,pai,juntos,2,casa,3,servicos,mais de 3,5,True,True,urbano,2,False,True,2,3,1,2,True,0,0,11,10,10,False,0,0,10,10,10
+feminino,18,False,5,Mousinho da Silveira,outro,2,True,False,pai,juntos,4,outro,4,professor,mais de 3,3,True,True,rural,3,False,True,2,2,4,2,True,0,10,14,12,11,False,0,0,7,5,0
+masculino,18,True,3,Mousinho da Silveira,outro,1,False,False,pai,juntos,1,casa,2,servicos,ate 3,4,True,True,rural,3,True,True,3,3,2,3,True,0,3,14,12,12,False,0,3,9,10,10
+feminino,17,True,3,Mousinho da Silveira,proximo_casa,3,True,False,mae,juntos,2,outro,2,casa,mais de 3,3,False,False,urbano,1,True,True,4,3,1,1,False,0,8,13,11,11,False,0,8,10,11,12
+feminino,17,True,1,Mousinho da Silveira,curso,1,True,False,mae,juntos,1,outro,2,outro,mais de 3,3,False,True,rural,1,True,False,5,5,1,3,False,0,14,6,5,5,False,0,4,7,8,9
+feminino,18,True,1,Mousinho da Silveira,reputacao,3,True,False,mae,juntos,4,outro,4,outro,ate 3,5,False,True,rural,2,False,False,4,4,1,1,False,0,0,19,18,19,False,0,0,15,17,17
+feminino,18,True,4,Mousinho da Silveira,proximo_casa,3,True,False,mae,juntos,1,outro,1,outro,mais de 3,4,False,True,rural,4,False,False,3,2,1,2,False,0,2,8,8,10,False,0,4,10,11,12
+feminino,18,True,2,Mousinho da Silveira,curso,2,True,False,mae,juntos,4,professor,4,servicos,ate 3,5,False,True,rural,1,True,False,4,3,3,4,True,0,4,8,9,10,False,0,1,13,14,14
+feminino,18,True,1,Mousinho da Silveira,proximo_casa,2,True,False,mae,juntos,3,outro,3,outro,mais de 3,4,False,True,urbano,1,False,True,1,3,1,2,True,0,0,15,15,15,False,0,1,16,16,16
+feminino,17,False,1,Mousinho da Silveira,reputacao,2,True,False,mae,juntos,3,casa,1,outro,mais de 3,4,True,True,rural,1,True,False,5,4,2,3,True,0,17,10,10,10,False,0,10,8,9,9
+masculino,18,False,2,Mousinho da Silveira,proximo_casa,2,True,False,pai,juntos,4,professor,4,professor,mais de 3,3,False,True,urbano,1,True,False,2,4,1,4,True,0,4,15,14,14,False,0,4,17,18,19
+masculino,18,False,5,Mousinho da Silveira,outro,1,True,False,mae,juntos,2,outro,1,outro,mais de 3,4,False,True,rural,2,True,True,4,3,1,3,False,0,5,7,6,7,False,0,0,7,7,0
+masculino,17,True,3,Mousinho da Silveira,proximo_casa,2,True,False,pai,juntos,2,outro,3,servicos,mais de 3,4,False,True,urbano,2,True,False,4,3,1,1,False,0,2,11,11,10,False,0,4,14,15,16
+masculino,19,True,5,Mousinho da Silveira,outro,1,True,False,mae,juntos,1,outro,1,servicos,mais de 3,4,False,False,rural,2,False,False,3,2,1,3,False,1,0,6,5,0,False,1,0,5,8,0
+masculino,18,True,3,Mousinho da Silveira,proximo_casa,1,True,False,pai,juntos,4,outro,2,outro,mais de 3,5,False,False,rural,2,False,False,4,3,4,3,True,1,14,6,5,5,True,1,0,7,7,0
+feminino,18,True,4,Mousinho da Silveira,outro,3,True,False,mae,juntos,2,casa,2,outro,mais de 3,5,False,False,rural,2,False,False,3,3,1,3,True,0,2,10,9,10,False,0,0,14,17,15
+feminino,18,True,5,Mousinho da Silveira,reputacao,1,True,False,mae,juntos,4,professor,4,casa,mais de 3,4,True,True,rural,3,True,True,4,3,2,2,True,0,7,6,5,6,False,0,4,7,9,10
+feminino,19,False,5,Mousinho da Silveira,curso,3,True,False,mae,juntos,2,servicos,3,outro,mais de 3,5,False,True,rural,1,True,False,4,2,1,2,False,1,0,7,5,0,False,1,4,10,11,10
+feminino,18,True,1,Mousinho da Silveira,curso,2,True,False,mae,juntos,3,professor,1,servicos,ate 3,4,True,True,urbano,1,False,False,3,4,1,1,True,0,0,7,9,8,False,0,4,15,15,16
+feminino,18,True,5,Mousinho da Silveira,curso,2,True,False,mae,juntos,1,outro,1,outro,mais de 3,1,False,False,urbano,2,True,False,1,1,1,1,False,1,0,6,5,0,False,0,6,11,12,9
+masculino,17,False,2,Mousinho da Silveira,curso,1,True,False,mae,juntos,3,servicos,1,servicos,ate 3,2,False,True,urbano,2,False,False,4,5,3,4,False,0,3,14,16,16,False,0,6,10,10,10
+masculino,18,False,5,Mousinho da Silveira,curso,1,True,False,mae,juntos,3,servicos,2,outro,ate 3,4,False,True,rural,3,False,False,4,1,3,4,False,0,0,11,12,10,False,0,4,10,11,11
